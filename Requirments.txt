@@ -1,0 +1,23 @@
+
+library(plyr)
+library(corrplot)
+library(ggplot2)
+library(gridExtra)
+library(ggthemes)
+library(caret)
+library(MASS)
+library(randomForest)
+library(party)
+library(reshape2)
+library(gridExtra)
+library(ggthemes)
+library(RColorBrewer)
+library(knitr)
+library(magrittr)
+library(partykit)
+library(rpart.plot)
+
+DataSet :- https://www.kaggle.com/datasets/mnassrib/telecom-churn-datasets
+
+R Version :- 4.2.2 above
+R Studio  :- RStudio 2022.12.0+353 
